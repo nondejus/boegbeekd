@@ -1,2 +1,0 @@
-# boegbeekd
-neuron amputatie isoleercel
